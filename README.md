@@ -1,3 +1,6 @@
+## License
+   © 2026 Elhabchi Mohammed. All Rights Reserved.
+
 # StudyMate
 
 StudyMate is a personal study organizer built with MongoDB, Express, React, and Node.js. It helps students manage subjects and tasks, track deadlines and progress, and turn learning goals into reviewable AI study plans.
